@@ -1,1 +1,1 @@
-# AlgorithmsDS-in-Java
+# Algorithms and Data Structures in Java
